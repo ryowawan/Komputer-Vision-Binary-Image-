@@ -18,15 +18,15 @@ Sebelum mengeksekusi kode, kita perlu memasukkan gambar ke dalam sistem penyimpa
 <img width="813" height="713" alt="Screenshot (154)" src="https://github.com/user-attachments/assets/3e15c4b5-19de-463c-a7e0-748ce7c357cf" />
 
 ### 3️⃣ Mengimport CV
-<img width="926" height="332" alt="image" src="https://github.com/user-attachments/assets/e855a52c-2994-45ff-8c78-7c6ae60ee8f3" />
+<img width="1832" height="1479" alt="Asset 11" src="https://github.com/user-attachments/assets/047273fc-9a46-4e57-922d-9ae8c4f89ce1" />
 
 Keterangan :
 - Kode pada sel pertama digunakan untuk mengimport pustaka
 - Kode pada sel kedua digunakan untuk membaca gambar yang telah diunggah ke Google Drive
   
-  : pastikan tempat penyimpanan ("...") sesuai dengan tempat kalian upload
+  : ⚠️ pastikan tempat penyimpanan ("...") sesuai dengan tempat kalian upload
   
-  : atau kalian bisa cari gambar kemudian klik titik tiga (⋮) pilih "Copy path", kemudian paste ke ("...")
+  : ⚠️ atau kalian bisa cari gambar kemudian klik titik tiga (⋮) pilih "Copy path", kemudian paste ke ("...")
 - Kode pada sel ketiga digunakan menampilkan gambar
 
 ### 4️⃣ Mengubah warna menjadi Grayscale
