@@ -30,9 +30,7 @@ Keterangan :
 - Kode pada sel ketiga digunakan menampilkan gambar
 
 ### 4️⃣ Mengubah warna menjadi Binary
-<img width="701" height="340" alt="image" src="https://github.com/user-attachments/assets/d06fdc27-d5c4-4eaf-8431-431b3f759c46" />
+<img width="523" height="358" alt="Screenshot 2026-06-16 132024" src="https://github.com/user-attachments/assets/96b208af-98ed-46f0-8d9e-2aa30868d512" />
 
 Keterangan :
 - Kode pada sel keempat digunakan mengkonversi gambar dari BGR ke Grayscale dan tampilkan hasil gambar
-
-https://colab.research.google.com/drive/1Kb8f9seegX-SD_LS4e3Nzo5eqqpX4toF#scrollTo=4lYdH71N99jt&fullscreenOutput=true
