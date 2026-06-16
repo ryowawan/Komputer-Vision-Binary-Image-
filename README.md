@@ -30,7 +30,7 @@ Keterangan :
 - Kode pada sel ketiga digunakan menampilkan gambar
 
 ### 4️⃣ Mengubah warna menjadi Binary
-<img width="523" height="358" alt="Screenshot 2026-06-16 132024" src="https://github.com/user-attachments/assets/96b208af-98ed-46f0-8d9e-2aa30868d512" />
+<img width="656" height="388" alt="Screenshot 2026-06-16 133755" src="https://github.com/user-attachments/assets/4fd03d6f-ce86-48a0-8f5e-224da8579233" />
 
 Keterangan :
-- Kode pada sel keempat digunakan menerapkan operator Laplacian dan menyimpan hasil gambar dalam format 8-bit (cv.CV_8U)
+- Kode pada sel kelima digunakan untuk menghasilkan dua nilai: batas yang dipakai (thresh) dan gambar hasilnya (blackAndWhite)
