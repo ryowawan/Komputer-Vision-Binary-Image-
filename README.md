@@ -33,4 +33,4 @@ Keterangan :
 <img width="523" height="358" alt="Screenshot 2026-06-16 132024" src="https://github.com/user-attachments/assets/96b208af-98ed-46f0-8d9e-2aa30868d512" />
 
 Keterangan :
-- Kode pada sel keempat digunakan mengkonversi gambar dari BGR ke Grayscale dan tampilkan hasil gambar
+- Kode pada sel keempat digunakan menerapkan operator Laplacian dan menyimpan hasil gambar dalam format 8-bit (cv.CV_8U)
