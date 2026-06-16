@@ -13,3 +13,8 @@ cv2_imshow(img)
 # lalu masukkan hasilnya ke dalam variabel bernama 'edge'."
 edge = cv.Laplacian(img,cv.CV_8U)
 cv2_imshow(edge)
+
+
+# 5. cv.threshold menghasilkan dua nilai: batas yang dipakai (thresh) dan gambar hasilnya (blackAndWhite)
+(thresh, blackAndWhite) = cv.threshold(gray, 127, 255, cv.THRESH_BINARY)
+cv2_imshow(blackAndWhite)
