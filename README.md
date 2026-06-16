@@ -18,7 +18,7 @@ Sebelum mengeksekusi kode, kita perlu memasukkan gambar ke dalam sistem penyimpa
 <img width="1832" height="1479" alt="Asset 11" src="https://github.com/user-attachments/assets/047273fc-9a46-4e57-922d-9ae8c4f89ce1" />
 
 ### 3️⃣ Mengimport CV
-
+<img width="926" height="332" alt="image" src="https://github.com/user-attachments/assets/e855a52c-2994-45ff-8c78-7c6ae60ee8f3" />
 
 Keterangan :
 - Kode pada sel pertama digunakan untuk mengimport pustaka
@@ -29,8 +29,10 @@ Keterangan :
   : ⚠️ atau kalian bisa cari gambar kemudian klik titik tiga (⋮) pilih "Copy path", kemudian paste ke ("...")
 - Kode pada sel ketiga digunakan menampilkan gambar
 
-### 4️⃣ Mengubah warna menjadi Grayscale
+### 4️⃣ Mengubah warna menjadi Binary
 <img width="701" height="340" alt="image" src="https://github.com/user-attachments/assets/d06fdc27-d5c4-4eaf-8431-431b3f759c46" />
 
 Keterangan :
 - Kode pada sel keempat digunakan mengkonversi gambar dari BGR ke Grayscale dan tampilkan hasil gambar
+
+https://colab.research.google.com/drive/1Kb8f9seegX-SD_LS4e3Nzo5eqqpX4toF#scrollTo=4lYdH71N99jt&fullscreenOutput=true
