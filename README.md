@@ -28,8 +28,14 @@ Keterangan :
   
   : ⚠️ atau kalian bisa cari gambar kemudian klik titik tiga (⋮) pilih "Copy path", kemudian paste ke ("...")
 - Kode pada sel ketiga digunakan menampilkan gambar
+- 
+### 4️⃣ Mengubah warna menjadi Grayscale
+<img width="701" height="340" alt="image" src="https://github.com/user-attachments/assets/d06fdc27-d5c4-4eaf-8431-431b3f759c46" />
 
-### 4️⃣ Mengubah warna menjadi Binary
+Keterangan :
+- Kode pada sel keempat digunakan mengkonversi gambar dari BGR ke Grayscale dan tampilkan hasil gambar
+  
+### 4️⃣ Mengubah Grayscale menjadi Binary
 <img width="656" height="388" alt="Screenshot 2026-06-16 133755" src="https://github.com/user-attachments/assets/4fd03d6f-ce86-48a0-8f5e-224da8579233" />
 
 Keterangan :
