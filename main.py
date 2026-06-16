@@ -9,6 +9,11 @@ img = cv.imread("...")
 from google.colab.patches import cv2_imshow
 cv2_imshow(img)
 
-# 4. cv.threshold menghasilkan dua nilai: batas yang dipakai (thresh) dan gambar hasilnya (blackAndWhite)
+# 4. Melakukan konversi gambar asli ('img') dari format warna BGR menjadi Grayscale,
+# menyimpan hasilnya ke variabel 'gray', lalu menampilkannya ke layar.
+gray = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
+cv2_imshow(gray)
+
+# 5. cv.threshold menghasilkan dua nilai: batas yang dipakai (thresh) dan gambar hasilnya (blackAndWhite)
 (thresh, blackAndWhite) = cv.threshold(gray, 127, 255, cv.THRESH_BINARY)
 cv2_imshow(blackAndWhite)
