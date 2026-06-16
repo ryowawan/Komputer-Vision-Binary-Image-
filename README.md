@@ -1,4 +1,4 @@
-# Binary-Image
+# Binary Image
 - **Binary Image** merupakan jenis citra yang lebih sederhana lagi dari grayscale, di mana hanya ada dua kemungkinan nilai piksel: 0 (Hitam) atau 1/255 (Putih)
 - **Bagaimana membuatnya ?** Menggunakan teknik thresholding (ambang batas). Kita menentukan satu nilai threshold, misalnya 127. Semua piksel di citra grayscale yang nilainya lebih besar dari 127 akan diubah menjadi putih, sedangkan yang di bawah atau sama dengan 127 akan diubah menjadi hitam
 - **Fungsi Utama :** teknik ini memisahkan objek utama (foreground) dengan mulus dari latar belakang (background) sehingga mesin hanya fokus pada siluet objek
